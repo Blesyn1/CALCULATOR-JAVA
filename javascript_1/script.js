@@ -1,0 +1,11 @@
+var a,b,add,sub,mul,div;
+        a=parseInt(prompt("Enter first value"));
+        b=parseInt(prompt("Enter second value"));
+        add=a+b;
+        sub=a-b;
+        mul=a*b;
+        div=a/b;
+        alert("Add Result is"+ add);
+        alert("Sub Result is"+sub);
+        alert("Mul Result is"+mul);
+        alert("Div Result is"+div);
